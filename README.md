@@ -1,4 +1,4 @@
-# Zomato Restaurants Analysis — Power BI
+# Zomato Restaurants Analysis
 
 A Power BI project analyzing restaurant performance across Indian cities using Zomato data. The report surfaces city-wise density and ratings, cuisine trends, pricing vs. ratings patterns, and quality vs. visibility signals for targeted operational and growth decisions.
 
